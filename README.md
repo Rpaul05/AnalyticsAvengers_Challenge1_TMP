@@ -14,10 +14,10 @@ This repository contains our team's submission for **The Manhattan Project's Exp
 
 | Name | Role & Contribution | Specialization |
 |------|-------------------|----------------|
-| **Rohan Kumar** | Lead Analyst & Project Manager | Statistical Analysis, Data Strategy |
+| **Ritav Paul** | Lead Analyst & Project Manager | Statistical Analysis, Data Strategy |
 | **Adrija Sil** | Visualization Specialist | Data Visualization, Dashboard Design |
 | **Parthivjit Basak** | Report Writer & Documentation | Business Intelligence, Documentation |
-| **Ritav Paul** | Data Engineer & Quality Analyst | Data Cleaning, ETL Processes |
+| **Rohan Kumar** | Data Engineer & Quality Analyst | Data Cleaning, ETL Processes |
 
 ## 🎯 Project Overview
 
